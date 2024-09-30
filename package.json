@@ -14,9 +14,12 @@
   "license": "Apache-2.0",
   "description": "",
   "dependencies": {
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0",
     "puppeteer": "^22.15.0",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.26.0",
+    "winston": "^3.14.2",
     "wwebjs-bot": "file:",
     "wwebjs-mongo": "^1.1.0"
   }
