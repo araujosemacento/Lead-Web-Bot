@@ -1,4 +1,4 @@
-2024/09/30-14:58:04.561 288 Reusing MANIFEST C:\Users\vdi.dell\wwebjs-bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/30-14:58:04.575 288 Recovering log #62
-2024/09/30-14:58:04.632 288 Reusing old log C:\Users\vdi.dell\wwebjs-bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000062.log 
-2024/09/30-14:58:05.864 2c84 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/04-09:59:54.403 454c Reusing MANIFEST C:\Users\gabriel.araujo\Documents\GitHub\Lead-Web-Bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/04-09:59:54.416 454c Recovering log #164
+2024/10/04-09:59:54.459 454c Reusing old log C:\Users\gabriel.araujo\Documents\GitHub\Lead-Web-Bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000164.log 
+2024/10/04-09:59:55.505 454c Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)

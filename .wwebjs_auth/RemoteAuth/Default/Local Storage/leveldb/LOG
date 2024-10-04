@@ -1,3 +1,6 @@
-2024/09/30-14:57:58.738 288 Reusing MANIFEST C:\Users\vdi.dell\wwebjs-bot\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/MANIFEST-000001
-2024/09/30-14:57:58.774 288 Recovering log #3
-2024/09/30-14:57:58.775 288 Reusing old log C:\Users\vdi.dell\wwebjs-bot\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/000003.log 
+2024/10/04-09:59:53.185 4658 Reusing MANIFEST C:\Users\gabriel.araujo\Documents\GitHub\Lead-Web-Bot\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/MANIFEST-000001
+2024/10/04-09:59:53.201 4658 Recovering log #4
+2024/10/04-09:59:53.202 4658 Reusing old log C:\Users\gabriel.araujo\Documents\GitHub\Lead-Web-Bot\.wwebjs_auth\RemoteAuth\Default\Local Storage\leveldb/000004.log 
+2024/10/04-10:00:53.610 6b8c Level-0 table #8: started
+2024/10/04-10:00:53.624 6b8c Level-0 table #8: 13235 bytes OK
+2024/10/04-10:00:53.628 6b8c Delete type=0 #4
